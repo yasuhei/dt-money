@@ -17,18 +17,18 @@ createServer({
         {
           id: 1,
           title: 'Freelance de website',
-          category: 'deposit',
-          type: 'Dev',
+          category: 'Dev',
+          type: 'deposit',
           amount: 6000,
-          createdAt: new Date('2022-10-22'),
+          createdAt: new Date('2022-10-22 09:00:00'),
         },
         {
           id: 2,
           title: 'Aluguel',
-          category: 'withdraw',
-          type: 'Dev',
+          category: 'Casa',
+          type: 'withdraw',
           amount: 1200,
-          createdAt: new Date('2022-10-22'),
+          createdAt: new Date('2022-10-22 08:33:00'),
         },
       ]
     })
